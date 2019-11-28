@@ -18,6 +18,22 @@
 
 [函数](python%2F%E5%87%BD%E6%95%B0.md)
 
+[类](python%2F%E7%B1%BB.md)
+
+[os模块](python%2Fos%E6%A8%A1%E5%9D%97.md)
+
+[time模块](python%2Ftime%E6%A8%A1%E5%9D%97.md)
+
+[psutil模块](python%2Fpsutil%E6%A8%A1%E5%9D%97.md)
+
+[IPy模块](python%2FIPy%E6%A8%A1%E5%9D%97.md)
+
+[xls模块](python%2Fxls%E8%A1%A8%E6%A0%BC.md)
+
+[邮件模块](python%2F%E9%82%AE%E7%AE%B1%E6%A8%A1%E5%9D%97.md)
+
+[远程模块](python%2F%E8%BF%9C%E7%A8%8B%E6%A8%A1%E5%9D%97.md)
+
 ## MySQL
 
 [mysql数据集群主从复制及独写分离](mysql%2Fmysql%E6%95%B0%E6%8D%AE%E9%9B%86%E7%BE%A4%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%8F%8A%E7%8B%AC%E5%86%99%E5%88%86%E7%A6%BB.md)
