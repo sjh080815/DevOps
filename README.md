@@ -1,8 +1,44 @@
 # 目录
 
+## Linux基础
+
+[SSH概念](Linux%E5%9F%BA%E7%A1%80%2FSSH%E6%A6%82%E5%BF%B5.md)
+
+[shell简述](Linux%E5%9F%BA%E7%A1%80%2Fshell%E7%AE%80%E8%BF%B0.md)
+
+[Linux文件和目录](Linux%E5%9F%BA%E7%A1%80%2FLinux%E7%9A%84%E6%96%87%E4%BB%B6%E5%92%8C%E7%9B%AE%E5%BD%95.md)
+
+[man工具](Linux%E5%9F%BA%E7%A1%80%2Fman%E5%B7%A5%E5%85%B7.md)
+
+[Linux是多用户操作系统](Linux%E5%9F%BA%E7%A1%80%2FLinux%E6%98%AF%E5%A4%9A%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+
+[用户的权限](Linux%E5%9F%BA%E7%A1%80%2F%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90.md)
+
+[进程与进程管理](Linux%E5%9F%BA%E7%A1%80%2F%E8%BF%9B%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)
+
+[磁盘及磁盘操作](Linux%E5%9F%BA%E7%A1%80%2F%E7%A3%81%E7%9B%98%E5%8F%8A%E7%A3%81%E7%9B%98%E6%93%8D%E4%BD%9C.md)
+
+[压缩文件操作](Linux%E5%9F%BA%E7%A1%80%2F%E5%8E%8B%E7%BC%A9%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.md)
+
+[文件概念](Linux%E5%9F%BA%E7%A1%80%2F%E6%96%87%E4%BB%B6%E6%A6%82%E5%BF%B5.md)
+
+[vi编辑器](Linux%E5%9F%BA%E7%A1%80%2Fvi%E7%BC%96%E8%BE%91%E5%99%A8.md)
+
+[网络概论](Linux%E5%9F%BA%E7%A1%80%2F%E7%BD%91%E7%BB%9C%E6%A6%82%E8%AE%BA.md)
+
+[网络操作1](Linux%E5%9F%BA%E7%A1%80%2F%E7%BD%91%E7%BB%9C%E6%93%8D%E4%BD%9C1.md)
+
+[网络操作2](Linux%E5%9F%BA%E7%A1%80%2F%E7%BD%91%E7%BB%9C%E6%93%8D%E4%BD%9C2.md)
+
 ## 基础服务
 
 [NFS](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2Fnfs.md)
+
+[FTP](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2FFTP%E6%9C%8D%E5%8A%A1.md)
+
+[定期执行命令](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2F%E5%AE%9A%E6%9C%9F%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4.md)
+
+[haproxy](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2Fhaproxy.md)
 
 ## Python
 
