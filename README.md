@@ -40,6 +40,10 @@
 
 [haproxy](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2Fhaproxy.md)
 
+[DHCP服务](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2FDHCP%E6%9C%8D%E5%8A%A1.md)
+
+[NTP服务](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2FNTP%E6%9C%8D%E5%8A%A1.md)
+
 ## Python
 
 [列表操作](python%2F%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.md)
