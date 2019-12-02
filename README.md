@@ -44,6 +44,8 @@
 
 [NTP服务](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2FNTP%E6%9C%8D%E5%8A%A1.md)
 
+[SAMBA服务](%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%2FSAMBA%E6%9C%8D%E5%8A%A1.md)
+
 ## Python
 
 [列表操作](python%2F%E5%88%97%E8%A1%A8%E6%93%8D%E4%BD%9C.md)
@@ -91,3 +93,9 @@
 ## jenkins
 
 [jenkins安装](jenkins%2F%E5%AE%89%E8%A3%85.md)
+
+## Docker
+
+[Docker安装和配置](docker%2Fdocker%E7%9A%84%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE.md)
+
+[镜像](docker%2F%E9%95%9C%E5%83%8F.md)
