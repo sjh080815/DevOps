@@ -48,4 +48,4 @@ drwxr-xr-x. 2 root root   19 12月 26 10:09 sbin
 
 访问Nginx服务器的IP，看到如下返回：
 
-![](img/QQ浏览器截图20191226101744.png)
+![](/img/QQ浏览器截图20191226101744.png)
