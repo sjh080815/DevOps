@@ -113,3 +113,7 @@
 [Nginx配置文件结构](Nginx%E8%B0%83%E4%BC%98%2FNginx%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
 
 [全局块和http块](Nginx%E8%B0%83%E4%BC%98%2F%E5%85%A8%E5%B1%80%E5%9D%97%E5%92%8Chttp%E5%9D%97.md)
+
+# kubernetes
+
+[一键搭建k8s集群](kubernetes%2F%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAk8s%E9%9B%86%E7%BE%A4.md)
