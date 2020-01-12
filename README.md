@@ -84,6 +84,10 @@
 
 [数据索引](mysql%2F%E6%95%B0%E6%8D%AE%E7%B4%A2%E5%BC%95.md)
 
+[数据排列](mysql%2F%E6%95%B0%E6%8D%AE%E6%8E%92%E5%88%97.md)
+
+[过滤数据](mysql%2F%E8%BF%87%E6%BB%A4%E6%95%B0%E6%8D%AE.md)
+
 [mysql数据集群主从复制及独写分离](mysql%2Fmysql%E6%95%B0%E6%8D%AE%E9%9B%86%E7%BE%A4%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%8F%8A%E7%8B%AC%E5%86%99%E5%88%86%E7%A6%BB.md)
 
 ## redis
