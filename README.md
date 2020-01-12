@@ -82,6 +82,8 @@
 
 [MySQL基础操作](mysql%2FMySQL%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C.md)
 
+[数据索引](mysql%2F%E6%95%B0%E6%8D%AE%E7%B4%A2%E5%BC%95.md)
+
 [mysql数据集群主从复制及独写分离](mysql%2Fmysql%E6%95%B0%E6%8D%AE%E9%9B%86%E7%BE%A4%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%8F%8A%E7%8B%AC%E5%86%99%E5%88%86%E7%A6%BB.md)
 
 ## redis
