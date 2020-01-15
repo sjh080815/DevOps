@@ -127,3 +127,7 @@
 # kubernetes
 
 [一键搭建k8s集群](kubernetes%2F%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BAk8s%E9%9B%86%E7%BE%A4.md)
+
+[典型环境分析](kubernetes%2F%E5%85%B8%E5%9E%8B%E7%8E%AF%E5%A2%83%E5%88%86%E6%9E%90.md)
+
+[术语和概念](kubernetes%2F%E6%9C%AF%E8%AF%AD%E5%92%8C%E6%A6%82%E5%BF%B5.md)
