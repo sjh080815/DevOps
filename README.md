@@ -88,6 +88,12 @@
 
 [过滤数据](mysql%2F%E8%BF%87%E6%BB%A4%E6%95%B0%E6%8D%AE.md)
 
+[数据模糊匹配](mysql%2F%E6%95%B0%E6%8D%AE%E6%A8%A1%E7%B3%8A%E5%8C%B9%E9%85%8D.md)
+
+[正则表达式](mysql%2F%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+
+[计算字段](mysql/计算字段.md)
+
 [mysql数据集群主从复制及独写分离](mysql%2Fmysql%E6%95%B0%E6%8D%AE%E9%9B%86%E7%BE%A4%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%8F%8A%E7%8B%AC%E5%86%99%E5%88%86%E7%A6%BB.md)
 
 ## redis
