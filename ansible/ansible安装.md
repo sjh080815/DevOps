@@ -20,7 +20,7 @@ pip install ansible
 在控制端配置/etc/ansible/hosts文件，在这个文件里可以使用ip，也可以使用hostname（那就需要使用hosts文件对主机进行解析或者DNS能进行解析）。
 
 
-![1.png](.\img\1.png)
+![1.png](img/1.png)
 
 生成SSH公钥，将公钥信息下发给被控制主机。
 
