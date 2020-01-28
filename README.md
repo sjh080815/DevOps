@@ -106,6 +106,16 @@
 
 [saltstack模块](saltstack%2Fsaltstack%E6%A8%A1%E5%9D%97.md)
 
+## ansible
+
+[ansible安装](ansible/ansible安装.md)
+
+[主机管理](ansible/主机管理.md)
+
+[模块](ansible/模块.md)
+
+[playbook](ansible/playbook.md)
+
 ## jenkins
 
 [jenkins安装](jenkins%2F%E5%AE%89%E8%A3%85.md)
