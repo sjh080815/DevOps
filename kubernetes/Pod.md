@@ -25,10 +25,11 @@ spec:
 
 上述代码中，```metadata.name```和```metadata.labels```是Pod的参数。
 
-```spec.containers```是容器的参数，即以下的容器运行到这个Pod中。
+spec.containers是容器的参数，即以下的容器运行到这个Pod中。
 
 注意看代码：
-```
+
+```yaml
 containers:
     - name: frontend
       image: kubeguide/guestbook-php-fortend:localredis
@@ -80,6 +81,8 @@ volumeMounts:
 ```
 
 这里使用Volume的name进行挂载选择，mountPath是挂载到容器的地址。
+
+数据卷通常使用empty和hostpath的方式，empty是无本地数据卷，不需要在磁盘上创建数据卷文件夹，hostpath需要在本地创建数据卷文件夹。
 
 # 配置方案ConfigMap
 

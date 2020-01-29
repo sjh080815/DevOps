@@ -52,3 +52,6 @@ kubectl labels nodes node_name key=value
 nodeSelector:
     im: master
 ```
+
+# Node亲和度调度
+
