@@ -80,7 +80,7 @@ cp /usr/share/doc/dhcp*/dhcpd.conf.example /etc/dhcp/dhcpd.conf
 开始编辑必要参数。参数的功能表如下：
 
 
-| Header 1 | Header 2 |
+| 字段 | 功能 |
 |----------|----------|
 | default-lease-time | 默认租约时间 |
 |max-lease-time|最大租约时间|
